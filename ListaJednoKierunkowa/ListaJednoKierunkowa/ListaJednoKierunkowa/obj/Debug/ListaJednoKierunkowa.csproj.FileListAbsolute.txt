@@ -1,0 +1,10 @@
+D:\GitHub\projects\Algorytmy\ListaJednoKierunkowa\ListaJednoKierunkowa\ListaJednoKierunkowa\bin\Debug\ListaJednoKierunkowa.exe.config
+D:\GitHub\projects\Algorytmy\ListaJednoKierunkowa\ListaJednoKierunkowa\ListaJednoKierunkowa\bin\Debug\ListaJednoKierunkowa.exe
+D:\GitHub\projects\Algorytmy\ListaJednoKierunkowa\ListaJednoKierunkowa\ListaJednoKierunkowa\bin\Debug\ListaJednoKierunkowa.pdb
+D:\GitHub\projects\Algorytmy\ListaJednoKierunkowa\ListaJednoKierunkowa\ListaJednoKierunkowa\obj\Debug\ListaJednoKierunkowa.csprojResolveAssemblyReference.cache
+D:\GitHub\projects\Algorytmy\ListaJednoKierunkowa\ListaJednoKierunkowa\ListaJednoKierunkowa\obj\Debug\ListaJednoKierunkowa.Form1.resources
+D:\GitHub\projects\Algorytmy\ListaJednoKierunkowa\ListaJednoKierunkowa\ListaJednoKierunkowa\obj\Debug\ListaJednoKierunkowa.Properties.Resources.resources
+D:\GitHub\projects\Algorytmy\ListaJednoKierunkowa\ListaJednoKierunkowa\ListaJednoKierunkowa\obj\Debug\ListaJednoKierunkowa.csproj.GenerateResource.Cache
+D:\GitHub\projects\Algorytmy\ListaJednoKierunkowa\ListaJednoKierunkowa\ListaJednoKierunkowa\obj\Debug\ListaJednoKierunkowa.csproj.CoreCompileInputs.cache
+D:\GitHub\projects\Algorytmy\ListaJednoKierunkowa\ListaJednoKierunkowa\ListaJednoKierunkowa\obj\Debug\ListaJednoKierunkowa.exe
+D:\GitHub\projects\Algorytmy\ListaJednoKierunkowa\ListaJednoKierunkowa\ListaJednoKierunkowa\obj\Debug\ListaJednoKierunkowa.pdb
